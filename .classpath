@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<accessrules>
+			<accessrule kind="accessible" pattern="com/sun/scenario/effect/impl/sw/sse/**"/>
+		</accessrules>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/SQL文件/SQL SERVER 2008 驱动程序/sqljdbc_4.1/chs/sqljdbc41.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/lib"/>
+	<classpathentry kind="lib" path="D:/JAVA JDK 1.7/jre/lib/ext/RXTXcomm.jar"/>
+	<classpathentry kind="lib" path="E:/Android Projects/CardManagementSystem/Required third party package/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="E:/Android Projects/CardManagementSystem/Required third party package/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="E:/Android Projects/CardManagementSystem/Required third party package/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="E:/Android Projects/CardManagementSystem/Required third party package/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Android Projects/CardManagementSystem/Required third party package/dynamicreports-adhoc-4.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Android Projects/CardManagementSystem/Required third party package/dynamicreports-adhoc-4.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Android Projects/CardManagementSystem/Required third party package/dynamicreports-core-4.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Android Projects/CardManagementSystem/Required third party package/dynamicreports-core-4.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/Android Projects/CardManagementSystem/Required third party package/dynamicreports-core-4.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Android Projects/CardManagementSystem/Required third party package/itext-2.1.7.js5.jar"/>
+	<classpathentry kind="lib" path="E:/Android Projects/CardManagementSystem/Required third party package/iTextAsian.jar"/>
+	<classpathentry kind="lib" path="E:/Android Projects/CardManagementSystem/Required third party package/jasper-compiler-jdt.jar"/>
+	<classpathentry kind="lib" path="E:/Android Projects/CardManagementSystem/Required third party package/jasperreports-6.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
