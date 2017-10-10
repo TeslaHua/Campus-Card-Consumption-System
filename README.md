@@ -1,19 +1,33 @@
-¹¦ÄÜ£º
 
-         1.¾ßÓĞÒ»°ãµÄ³äÖµ¡¢¿Û·Ñ¡¢×¢Ïú¡¢¹ÒÊ§¹¦ÄÜ£»
-         2.Í¨¹ıJDBCÁ´½ÓÊı¾İ¿â£»
-         3.Êı¾İ¿âÓÃµÄÊÇSQL Server 2008;
-         4.Ê¹ÓÃjasperreports²å¼şDynamicReportsÉú³ÉPDF°æµÄÏû·Ñ±¨±í
-         5.Ê¹ÓÃEMW3162µÄWIFIÄ£¿éÓëÏÂÎ»»ú½øĞĞÍ¨ĞÅ
-         6.Í¨¹ıJAVAµÄRXTX.jar´®¿Ú°üÊµÏÖGPRSÄ£¿é·¢ËÍĞ£Ô°¿¨µÁË¢±¨¾¯¶ÌĞÅ¸ø³Ö¿¨ÓÃ»§
+<font face="Times New Roman">
+
+#### åŠŸèƒ½ï¼š
+
+   1.å…·æœ‰ä¸€èˆ¬çš„å……å€¼ã€æ‰£è´¹ã€æ³¨é”€ã€æŒ‚å¤±åŠŸèƒ½
+
+   2.é€šè¿‡ JDBC é“¾æ¥æ•°æ®åº“
+
+   3.æ•°æ®åº“ç”¨çš„æ˜¯ SQL Server 2008
+
+   4.ä½¿ç”¨ Jasperreports æ’ä»¶ DynamicReports ç”Ÿæˆ PDF ç‰ˆçš„æ¶ˆè´¹æŠ¥è¡¨
+
+   5.ä½¿ç”¨ EMW3162 çš„ WIFI æ¨¡å—ä¸ä¸‹ä½æœºè¿›è¡Œé€šä¿¡
 
 
-Function:
+   6.é€šè¿‡ JAVA çš„ RXTX.jar ä¸²å£åŒ…å®ç° GSM æ¨¡å—å‘é€æ ¡å›­å¡ç›—åˆ·æŠ¥è­¦çŸ­ä¿¡ç»™æŒå¡ç”¨æˆ·
 
-         1. With the general recharge, deduct fees, cancellation, loss of function;
-         2. Link database via JDBC;
-         3. The database is SQL Server 2008;
-         4. Use JasperReports plugin dynamicreports to generate a PDF version of the consumer report
-         5. Using EMW3162WiFi module to communicate with the lower computer
-         6. Through the Java RXTX.Jar Serial package to achieve GPRS module send Campus card theft brush alarm message to card users
+#### Function:
+
+   1. With the general recharge, deduct fees, cancellation, loss of function
+
+   2. Link database via JDBC
+
+   3. The database is SQL Server 2008
+
+   4. Use JasperReports plugin dynamicreports to generate a PDF version of the consumer report
+ 
+   5. Using EMW3162WiFi module to communicate with the lower computer
+
+   6. Through the Java RXTX.Jar Serial package to achieve GSM module send Campus card theft brush alarm message to card users
   
+</font>
