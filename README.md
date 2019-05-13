@@ -30,39 +30,24 @@
 
    4. 另外关于数据库的相关文件，比如建表文件的问题等可以通过issues来和我交流，或者通过我的邮箱：wangzhonghua_cnu@163.com来与我联系。
 
-#### 功能：
+#### 3. 功能
 
-   1.具有一般的充值、扣费、注销、挂失功能
+   1. 具有一般的充值、扣费、注销、挂失功能
 
-   2.通过 JDBC 链接数据库
+   2. 通过**JDBC**链接数据库
 
-   3.数据库用的是 SQL Server 2008
+   3. 数据库用的是**SQL-Server-2008**
 
-   4.使用 Jasperreports 插件 DynamicReports 生成 PDF 版的消费报表
+   4. 使用**Jasperreports**插件**DynamicReports**生成PDF版的消费报表
 
-   5.使用 EMW3162 的 WIFI 模块与下位机进行通信
+   5. 使用EMW3162的WIFI模块与下位机进行通信
 
-
-   6.通过 JAVA 的 RXTX.jar 串口包实现 GSM 模块发送校园卡盗刷报警短信给持卡用户
-
-#### Function:
-
-   1. With the general recharge, deduct fees, cancellation, loss of function
-
-   2. Link database via JDBC
-
-   3. The database is SQL Server 2008
-
-   4. Use JasperReports plugin dynamicreports to generate a PDF version of the consumer report
- 
-   5. Using EMW3162WiFi module to communicate with the lower computer
-
-   6. Through the Java RXTX.Jar Serial package to achieve GSM module send Campus card theft brush alarm message to card users
+   6. 通过JAVA的**RXTX.jar**串口包实现**GSM模块**发送校园卡**盗刷报警**短信给持卡用户
   
 </font>
 
 #### 提示：
 
-   1. 下位机的相关代码与硬件设计（PCB文件也有哦）请看我的另一个Repository。
+   1. 下位机的相关代码与硬件设计（PCB文件也有哦）**请看我的另一个Repository**。
    2. 这个小项目适合做本科毕业设计或者课程设计的参考。
    3. 请大家多多指教，多多交流，多谢 ！
