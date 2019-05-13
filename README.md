@@ -31,3 +31,5 @@
    6. Through the Java RXTX.Jar Serial package to achieve GSM module send Campus card theft brush alarm message to card users
   
 </font>
+
+## Note: 更详细的介绍请查看repo的Wiki部分 ##
