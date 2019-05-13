@@ -48,6 +48,6 @@
 
 #### 提示：
 
-   1. 下位机的相关代码与硬件设计（PCB文件也有哦）**请看我的另一个Repository**。
+   1. 下位机的相关代码与硬件设计（PCB文件也有哦）**请看我的另一个Repository：**  [Repositoty](https://github.com/TeslaHua/CampusCardConsumptionSystem-Hardware)。
    2. 这个小项目适合做本科毕业设计或者课程设计的参考。
    3. 请大家多多指教，多多交流，多谢 ！
